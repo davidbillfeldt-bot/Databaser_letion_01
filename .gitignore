@@ -3,3 +3,10 @@ obj/
 /packages/
 riderModule.iml
 /_ReSharper.Caches/
+
+# IDE- och användarfiler (Rider/Visual Studio)
+.idea/
+.vs/
+*.user
+*.suo
+.DS_Store
